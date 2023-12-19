@@ -14,3 +14,15 @@
 ### (Al lado de la Clínica del IMSS)
 
 ![english books](clarissa.jpg)
+
+## Experiencia
+* Tomé clases de Inglés con María del Carmen Yáñez López
+* Clases en inglés en la Universidad de Alberta, Canadá
+* Apoyo en clases de inglés en el Centro de Lenguas Extranjeras de Jilotepec
+* Contamos con certificaciones de Inglés por parte de la Universidad de Cambridge, entre ellas, una de enseñanza del Inglés (TKT, "Teaching Knowledge Test")
+
+<img src='clarissa' width='100'>
+
+**Teléfono:** 5611613116
+
+**Correo:** abrahamcno29@gmail.com
