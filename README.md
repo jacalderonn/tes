@@ -6,12 +6,12 @@
 
 
 ## Inicio de Clases:
-### Sábado 13 de Enero
-### De 9:00 Am - 12:00 PM
+**Sábado 13 de Enero**
+**De 9:00 Am - 12:00 PM**
 
 ## Lugar:
-### Mariano Escobedo 145, Jilotepec de Molina Enriquez, 54240 Méx
-### (Al lado de la Clínica del IMSS)
+**Mariano Escobedo 145, Jilotepec de Molina Enriquez, 54240 Méx**
+**(Al lado de la Clínica del IMSS)**
 
 ![english books](clarissa.jpg)
 
@@ -21,7 +21,7 @@
 * Apoyo en clases de inglés en el Centro de Lenguas Extranjeras de Jilotepec
 * Contamos con certificaciones de Inglés por parte de la Universidad de Cambridge, entre ellas, una de enseñanza del Inglés (TKT, "Teaching Knowledge Test")
 
-![english books](clarissa.jpg | width=100)
+![english books](clarissa.jpg)
 
 **Teléfono:** 5611613116
 
