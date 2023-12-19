@@ -12,3 +12,5 @@
 ## Lugar:
 ### Mariano Escobedo 145, Jilotepec de Molina Enriquez, 54240 Méx
 ### (Al lado de la Clínica del IMSS)
+
+![english books](clarissa.jpg)
