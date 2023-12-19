@@ -21,7 +21,7 @@
 * Apoyo en clases de inglés en el Centro de Lenguas Extranjeras de Jilotepec
 * Contamos con certificaciones de Inglés por parte de la Universidad de Cambridge, entre ellas, una de enseñanza del Inglés (TKT, "Teaching Knowledge Test")
 
-![english books](clarissa.jpg)
+<img src="clarissa.jpg" width="300">
 
 **Teléfono:** 5611613116
 
