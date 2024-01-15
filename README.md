@@ -8,6 +8,8 @@
 ## Inicio de Clases:
 **Sábado 13 de Enero**
 **De 9:00 Am - 12:00 PM**
+    
+  **commmitment**
 
               **8 am - 12 pm**
 
