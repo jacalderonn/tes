@@ -9,6 +9,8 @@
 **Sábado 13 de Enero**
 **De 9:00 Am - 12:00 PM**
 
+              **8 am - 12 pm**
+
 ## Lugar:
 **Mariano Escobedo 145, Jilotepec de Molina Enriquez, 54240 Méx**
 **(Al lado de la Clínica del IMSS)**
